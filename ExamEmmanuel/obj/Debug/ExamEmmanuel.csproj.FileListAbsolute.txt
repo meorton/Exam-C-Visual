@@ -1,0 +1,30 @@
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\ExamEmmanuel.csprojAssemblyReference.cache
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\Emmanuelexam.Properties.Resources.resources
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\ExamEmmanuel.csproj.GenerateResource.cache
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\ExamEmmanuel.csproj.CoreCompileInputs.cache
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\Emmanuelexam.exe
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\obj\Debug\Emmanuelexam.pdb
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\bin\Debug\Emmanuelexam.exe.config
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\bin\Debug\Emmanuelexam.exe
+C:\Users\Programming6\Desktop\emmanuel\ExamEmmanuel\bin\Debug\Emmanuelexam.pdb
+C:\Exam\emmanuel\ExamEmmanuel\bin\Debug\Emmanuelexam.exe.config
+C:\Exam\emmanuel\ExamEmmanuel\bin\Debug\Emmanuelexam.exe
+C:\Exam\emmanuel\ExamEmmanuel\bin\Debug\Emmanuelexam.pdb
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\ExamEmmanuel.csprojAssemblyReference.cache
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\Emmanuelexam.Properties.Resources.resources
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\ExamEmmanuel.csproj.GenerateResource.cache
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\ExamEmmanuel.csproj.CoreCompileInputs.cache
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\Emmanuelexam.exe
+C:\Exam\emmanuel\ExamEmmanuel\obj\Debug\Emmanuelexam.pdb
+C:\eXAM NEW\ExamEmmanuel\bin\Debug\Emmanuelexam.exe.config
+C:\eXAM NEW\ExamEmmanuel\bin\Debug\Emmanuelexam.exe
+C:\eXAM NEW\ExamEmmanuel\bin\Debug\Emmanuelexam.pdb
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\ExamEmmanuel.csprojAssemblyReference.cache
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\ExamEderCiolette.Form1.resources
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\Emmanuelexam.Properties.Resources.resources
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\ExamEmmanuel.csproj.GenerateResource.cache
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\ExamEmmanuel.csproj.CoreCompileInputs.cache
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\Emmanuelexam.exe
+C:\eXAM NEW\ExamEmmanuel\obj\Debug\Emmanuelexam.pdb

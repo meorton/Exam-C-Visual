@@ -1,0 +1,30 @@
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe.config
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.pdb
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csprojAssemblyReference.cache
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Properties.Resources.resources
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.GenerateResource.cache
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.CoreCompileInputs.cache
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.exe
+C:\Repositories\ExamEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.pdb
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe.config
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.exe
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\bin\Debug\ExamEderCiolette.pdb
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csprojAssemblyReference.cache
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Properties.Resources.resources
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.GenerateResource.cache
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.CoreCompileInputs.cache
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.exe
+C:\Repositories\C# 2\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.pdb
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csprojAssemblyReference.cache
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.Form1.resources
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.GenerateResource.cache
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\ExamEderCiolette.csproj.CoreCompileInputs.cache
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\bin\Debug\Emmanuelexam.exe.config
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\bin\Debug\Emmanuelexam.exe
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\bin\Debug\Emmanuelexam.pdb
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\Emmanuelexam.Properties.Resources.resources
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\Emmanuelexam.exe
+C:\Users\Programming6\Desktop\New folder\ExamFinalEderCiolette\ExamEderCiolette\obj\Debug\Emmanuelexam.pdb
